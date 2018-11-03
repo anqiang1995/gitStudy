@@ -22,4 +22,8 @@ dev branch    feature1 branch
 
 再试一次远程master 与 本地master不一致的情况
 
+
+hello, this is modification on dev
+
 this is modification on master
+
