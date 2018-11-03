@@ -24,3 +24,6 @@ dev branch    feature1 branch
 
 
 hello, this is modification on dev
+
+this is modification on master
+
